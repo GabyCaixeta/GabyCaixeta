@@ -17,7 +17,7 @@
 
 ![c%2B%2B&](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javat&logoColor=F7DF1E)&nbsp;
-![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=Ct&logoColor=F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=Ct&logoColor=white)&nbsp;
 
 #### Ferramentas de Trabalho:
 
