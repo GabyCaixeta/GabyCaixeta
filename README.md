@@ -17,8 +17,8 @@
 
 ![c%2B%2B&](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javat&logoColor=F7DF1E)&nbsp;
-[![C](https://img.shields.io/badge/C--323330?style=for-the-badge&logo=Ct&logoColor=white)&nbsp;
-
+<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
 #### Ferramentas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
