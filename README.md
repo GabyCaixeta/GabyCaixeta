@@ -17,7 +17,6 @@
 
 ![c%2B%2B&](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javat&logoColor=F7DF1E)&nbsp;
-![Java](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F25%2Fc-sticker.png)&nbsp;
 
 
 #### Ferramentas de Trabalho:
