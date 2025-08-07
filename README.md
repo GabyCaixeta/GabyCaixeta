@@ -20,6 +20,10 @@
 <img align="center" alt="Ka-C++" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/C%2B%2B/C%2B%2B.svg">
 <img align="center" alt="Ka-J" height="60" width="65" src="https://github.com/K4BOTELHO/K-ICONS/blob/main/JAVA/JAVA.svg">
  
+&nbsp;
+&nbsp;
+
+ 
 #### Ferramentas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
